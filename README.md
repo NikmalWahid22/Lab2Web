@@ -198,6 +198,8 @@ p {
 }
 ```
 
+![contoh](ss6.png)
+
 4. Kalau sebuah elemen HTML punya ID dan Class sekaligus, lalu keduanya punya deklarasi CSS yang berbeda untuk properti yang sama, maka aturan dengan selector ID yang akan ditampilkan di browser. Karena selector ID lebih tinggi dibanding Class
 
 ```
@@ -227,7 +229,7 @@ p {
 </body>
 </html>
 ```
-
+![Contoh2](ss7.png)
 
 
 
