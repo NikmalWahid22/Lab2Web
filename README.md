@@ -1,1 +1,3 @@
-# Lab2Web
+- Nama : Muhamad Nikmal Wahid
+- kelas : TI 24 a3
+- Pemrograman Web
