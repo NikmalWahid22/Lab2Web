@@ -158,11 +158,12 @@ Selanjutnya menambahkan CSS Selector menggunakan ID dan Class Selector. Selectot
 
 Jawab: 
 
-1. 
+1. Mengubah warna pada CSS
+   ![CSSEdit](ss8.png)
 
-2. h1 { ... } berlaku untuk semua elemen `<h1>` di halaman. #intro h1 { ... } hanya berlaku untuk `<h1>` yang berada di dalam elemen dengan id="intro". Jadi lebih spesifik.
+3. h1 { ... } berlaku untuk semua elemen `<h1>` di halaman. #intro h1 { ... } hanya berlaku untuk `<h1>` yang berada di dalam elemen dengan id="intro". Jadi lebih spesifik.
 
-3. Kalau ada internal, eksternal, dan inline CSS yang semuanya mengatur elemen yang sama, maka browser akan menampilkan inline CSS karena punya prioritas paling tinggi. 
+4. Kalau ada internal, eksternal, dan inline CSS yang semuanya mengatur elemen yang sama, maka browser akan menampilkan inline CSS karena punya prioritas paling tinggi. 
 
 - Inline CSS (ditulis langsung di elemen dengan style="") → paling kuat.
 - Internal CSS (ditulis di tag <style> dalam file HTML).
